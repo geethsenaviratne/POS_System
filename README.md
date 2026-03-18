@@ -1,2 +1,2 @@
-# POS_System
+# POS-System
 POS_System
